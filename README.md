@@ -2,6 +2,8 @@
 
 This is a demo application for DigitalOcean's App Platform.
 
+![](https://i.imgur.com/AQV1t4y.png)
+
 This is the backend repo for creating the Laravel API. The overall structure of the demo application is:
 
 -   Laravel: Backend API ([Repo](https://github.com/do-community/guest-book-laravel))
