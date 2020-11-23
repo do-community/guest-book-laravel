@@ -2,7 +2,7 @@ spec:
   services:
     - name: guest-book
       git:
-        branch: main
+        branch: master
         repo_clone_url: https://github.com/do-community/guest-book-laravel.git
       envs:
         - key: APP_URL
