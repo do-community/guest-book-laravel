@@ -1,6 +1,7 @@
 spec:
+  - name: guest-book
   services:
-    - name: guest-book
+    - name: web
       git:
         branch: master
         repo_clone_url: https://github.com/do-community/guest-book-laravel.git
