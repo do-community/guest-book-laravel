@@ -1,5 +1,5 @@
 spec:
-  - name: guest-book
+  name: guest-book
   services:
     - name: web
       git:
