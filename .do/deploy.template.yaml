@@ -22,10 +22,10 @@ spec:
         - key: DB_PORT
           value: ${db.PORT}
         - key: DB_DATABASE
-          value: ${db.PASSWORD}
+          value: ${db.DATABASE}
         - key: DB_USERNAME
           value: ${db.USERNAME}
         - key: DB_PASSWORD
-          value: ${db.PORT}
+          value: ${db.PASSWORD}
   databases:
     - name: db
