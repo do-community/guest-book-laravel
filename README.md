@@ -42,6 +42,6 @@ The following environment variables are required:
 | DATABASE_URL  | ${db.DATABASE_URL}    |
 | DB_HOST       | ${db.HOSTNAME}        |
 | DB_PORT       | ${db.PORT}            |
-| DB_DATABASE   | ${db.PASSWORD}        |
+| DB_DATABASE   | ${db.DATABASE}        |
 | DB_USERNAME   | ${db.USERNAME}        |
-| DB_PASSWORD   | ${db.PORT}            |
+| DB_PASSWORD   | ${db.PASSWORD}        |
